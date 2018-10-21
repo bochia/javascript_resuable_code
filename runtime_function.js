@@ -1,3 +1,5 @@
+/*EXAMPE OF FUNCTIONS TAKING OTHER FUNCTIONS AS PARAMETERS*/
+
 /*The function takes another function as a parameter and calculates 
 its runtime in milliseconds*/
 function calRuntime(fcn,value){
